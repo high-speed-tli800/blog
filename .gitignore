@@ -1,1 +1,8 @@
+#DataBase
 db.sqlite3
+
+#VirtualENV
+venv
+
+#migrations
+blog/migrations
